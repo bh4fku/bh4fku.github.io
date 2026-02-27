@@ -14,4 +14,5 @@
 
     [social.params]
         icon = "brand-douyin"
+        newtab = true
 
