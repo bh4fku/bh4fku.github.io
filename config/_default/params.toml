@@ -18,7 +18,7 @@ SortBy              = "default"
     lastUpdated = ":date_full"
 
 [sidebar]
-    emoji    = "🍥"
+    emoji    = ""
     subtitle = "人无礼则不生,事无礼则不成,国无礼则不宁"
     avatar   = "img/avatar.png"
 
