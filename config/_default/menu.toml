@@ -8,17 +8,10 @@
 #newtab = true
 
 [[social]]
-    identifier = "github"
-    name       = "GitHub"
-    url        = "https://github.com/CaiJimmy/hugo-theme-stack"
+    identifier = "douyin"
+    name       = "Douyin"
+    url        = "https://www.douyin.com/user/MS4wLjABAAAANWoZa71_aQ5dKb9flI-hNQz6I7RiJHEfuRqT1raXrr4"
 
     [social.params]
-        icon = "brand-github"
+        icon = "brand-douyin"
 
-[[social]]
-    identifier = "twitter"
-    name       = "Twitter"
-    url        = "https://twitter.com"
-
-    [social.params]
-        icon = "brand-twitter"
